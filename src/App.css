@@ -1,4 +1,11 @@
-.App {
+
+body{
+  background: linear-gradient(to bottom, rgb(22, 101, 52) , #450a8c);
+  /* background-image: url('https://pixabay.com/images/search/food/'); */
+  /* opacity: .5; */
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +42,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
